@@ -1,6 +1,9 @@
-# ckkim add
-
+# Taewoo add
+IMDB/
 UCI_HAR_Dataset/
+model/
+MovieRating/
+.DS_Store
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
